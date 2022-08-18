@@ -14,7 +14,7 @@ layout: feed
 		<!-- <email>hankquinlanhub@gmail.com</email> -->
 	</author>
 
-	{% for note in site.notes %}
+	{% for note in site.categories.notes %}
 		<entry>
 			<title>{{ note.title }}</title>
 			<link href="http://princeton2000.github.io{{ note.url }}"/>
