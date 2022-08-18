@@ -2,3 +2,6 @@ name: Princeton Class of 2000
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 permalink: /notes/:year/:month/:day/:title
+
+include:
+	- _notes
