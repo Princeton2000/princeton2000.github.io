@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Class Note Template"
 date: 2022-08-17
 ---
