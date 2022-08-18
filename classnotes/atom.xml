@@ -8,13 +8,13 @@ layout: feed
 	<link href="http://princeton2000.github.io/notes/atom.xml" rel="self"/>
 	<link href="http://princeton2000.github.io/notes"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://princeton2000.github.io/notes</id>
+	<id>http://princeton2000.github.io/classnotes</id>
 	<author>
 		<name>Princeton Class of 2000</name>
 		<!-- <email>hankquinlanhub@gmail.com</email> -->
 	</author>
 
-	{% for note in site.categories.notes %}
+	{% for note in site.categories.classnotes %}
 		<entry>
 			<title>{{ note.title }}</title>
 			<link href="http://princeton2000.github.io{{ note.url }}"/>
