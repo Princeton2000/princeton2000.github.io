@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 
-notes {
+ul.notes {
     font-size: 1.9em;
     color: #f58025
 }
