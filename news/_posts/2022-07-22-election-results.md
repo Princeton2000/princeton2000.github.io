@@ -30,7 +30,7 @@ date: 2022-07-22
  
  # 4) Class Dues
  
- The loss of our 20th Reunion had a significant financial impact on our class. Class dues will be critical for the next several years as we will need money for deposits prior to our 25th Reunion. Annual dues are only $25 and you can pay [here](../../dues/index.html). Please email Class Treasurer Jeff Knapp (jdknapp at alumni) with questions.
+ The loss of our 20th Reunion had a significant financial impact on our class. Class dues will be critical for the next several years as we will need money for deposits prior to our 25th Reunion. Annual dues are only $25 and you can pay [here](../../../dues/index.html). Please email Class Treasurer Jeff Knapp (jdknapp at alumni) with questions.
  
  In orange and black,
   
