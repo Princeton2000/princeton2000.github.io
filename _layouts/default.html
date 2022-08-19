@@ -1,29 +1,12 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{{ page.title }}</title>
-    <!-- link to main stylesheet -->
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-  </head>
+  {% include header.html %}
   <body>
-    <nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/news">News</a></li>
-            <li><a href="/classnotes">Class Notes</a></li>
-            <li><a href="/dues">Dues</a></li>
-    		</ul>
-		</nav>
+    {% include topnav.html %}
 		<div class="container">
     		{{ content }}
 		</div>
     <!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:classof2000@alumni.princeton.edu">email</a></li>
-        		<li><a href="https://github.com/princeton2000">github</a></li>
-			</ul>
-		</footer>
+		{% include footer.html %}
   </body>
 </html>
