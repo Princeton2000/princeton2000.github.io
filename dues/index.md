@@ -3,7 +3,7 @@ layout: default
 title: Dues
 ---
 
-**Class Dues**
+## Class Dues
 
 
 The current dues rate is $25.
@@ -21,7 +21,6 @@ Click on the button below to complete the transaction. Dues will be attributed t
 	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 	</form>
-
 </span>
 
 Class dues are a tax-deductible contribution.  Thanks for your support!
