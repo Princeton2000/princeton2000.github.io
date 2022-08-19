@@ -14,14 +14,7 @@ Payment processing is handled by PayPal, but you do not need an account to compl
 
 Click on the button below to complete the transaction. Dues will be attributed to you based on the information entered on the PayPal checkout page. Unfortunately, dues histories are unavailable.
 
-<span style="text-align: center">
-	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-	<input type="hidden" name="cmd" value="_s-xclick">
-	<input type="hidden" name="hosted_button_id" value="HACG45JJNCV6L">
-	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-	</form>
-</span>
+{% include paypal.html %}
 
 Class dues are a tax-deductible contribution.  Thanks for your support!
 
