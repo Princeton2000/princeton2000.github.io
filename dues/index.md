@@ -5,6 +5,7 @@ title: Dues
 
 **Class Dues**
 
+
 The current dues rate is $25.
 
 The loss of our 20th Reunion had a significant financial impact on our class. Class dues will be critical for the next several years as we will need money for deposits prior to our 25th Reunion.
