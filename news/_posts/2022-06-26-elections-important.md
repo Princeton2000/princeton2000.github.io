@@ -5,7 +5,7 @@ date: 2022-08-17
 ---
 **Class Dues**
 
-Remember to [make your $25 class dues payment](https://princeton2000.org/dues/) today!
+Remember to [make your $25 class dues payment](../../dues/) today!
 
 **Class Elections**
 
