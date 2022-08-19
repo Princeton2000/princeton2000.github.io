@@ -21,4 +21,8 @@ If you are interested in other officer, volunteer, or Reunions committee positio
 
 ## Email communication issues
 
-We believe a significant number of classmates are not receiving the broadcast emails sent through the new University system. Recent broadcast emails were sent on May 15, May 31, and June 16. If you did not receive all 3 of these messages, please consider emailng the TigerNet help desk at tigernet@princeton.edu and cc’ing Class VP Aparna Kesarwala (kesarwla @ alumni). Please email Aparna with any other questions regarding class communications.
+We believe a significant number of classmates are not receiving the broadcast emails sent through the new University system. Recent broadcast emails were sent on May 15, May 31, and June 16. 
+
+If you did not receive all 3 of these messages, please consider emailng the TigerNet help desk at tigernet@princeton.edu and cc’ing Class VP Aparna Kesarwala (kesarwla @ alumni). 
+
+Please email Aparna with any other questions regarding class communications.
