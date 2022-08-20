@@ -46,3 +46,9 @@ ul.notes {
     font-size: 1.9em;
     color: #f58025
 }
+
+hr {
+      border: 0;
+      border-top: 0.25px;
+      color: #f58025
+}
